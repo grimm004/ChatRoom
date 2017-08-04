@@ -1,0 +1,17 @@
+f:\users\max grimmett\documents\visual studio 2015\Projects\ChatRoom\ChatRoomServer\bin\Debug\ChatRoomServer.exe.config
+f:\users\max grimmett\documents\visual studio 2015\Projects\ChatRoom\ChatRoomServer\bin\Debug\ChatRoomServer.exe
+f:\users\max grimmett\documents\visual studio 2015\Projects\ChatRoom\ChatRoomServer\bin\Debug\ChatRoomServer.pdb
+f:\users\max grimmett\documents\visual studio 2015\Projects\ChatRoom\ChatRoomServer\obj\Debug\ChatRoomServer.csprojResolveAssemblyReference.cache
+f:\users\max grimmett\documents\visual studio 2015\Projects\ChatRoom\ChatRoomServer\obj\Debug\ChatRoomServer.exe
+f:\users\max grimmett\documents\visual studio 2015\Projects\ChatRoom\ChatRoomServer\obj\Debug\ChatRoomServer.pdb
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomServer\bin\Debug\ChatRoomServer.exe.config
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomServer\obj\Debug\ChatRoomServer.exe
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomServer\obj\Debug\ChatRoomServer.pdb
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomServer\bin\Debug\ChatRoomServer.exe
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomServer\bin\Debug\ChatRoomServer.pdb
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomServer\obj\Debug\ChatRoomServer.csprojResolveAssemblyReference.cache
+f:\users\max grimmett\documents\visual studio 2015\Projects\ChatRoom\ChatRoomServer\bin\Debug\Newtonsoft.Json.dll
+f:\users\max grimmett\documents\visual studio 2015\Projects\ChatRoom\ChatRoomServer\bin\Debug\System.Data.SQLite.dll
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomServer\bin\Debug\System.Data.SQLite.dll
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomServer\bin\Debug\System.Data.SQLite.xml
+F:\Users\Max Grimmett\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomServer\bin\Debug\System.Data.SQLite.pdb

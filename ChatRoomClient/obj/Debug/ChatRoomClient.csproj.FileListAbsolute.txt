@@ -1,0 +1,56 @@
+f:\users\max grimmett\documents\visual studio 2015\Projects\ChatRoom\ChatRoomClient\bin\Debug\ChatRoomClient.exe.config
+f:\users\max grimmett\documents\visual studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\ChatRoomClient.csprojResolveAssemblyReference.cache
+f:\users\max grimmett\documents\visual studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\App.g.cs
+f:\users\max grimmett\documents\visual studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\ChatRoomClient_MarkupCompile.cache
+f:\users\max grimmett\documents\visual studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\ChatRoomClient_MarkupCompile.lref
+f:\users\max grimmett\documents\visual studio 2015\Projects\ChatRoom\ChatRoomClient\bin\Debug\ChatRoomClient.exe
+f:\users\max grimmett\documents\visual studio 2015\Projects\ChatRoom\ChatRoomClient\bin\Debug\ChatRoomClient.pdb
+f:\users\max grimmett\documents\visual studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\ChatRoomClient.g.resources
+f:\users\max grimmett\documents\visual studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\ChatRoomClient.csproj.GenerateResource.Cache
+f:\users\max grimmett\documents\visual studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\ChatRoomClient.exe
+f:\users\max grimmett\documents\visual studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\ChatRoomClient.pdb
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\bin\Debug\ChatRoomClient.exe.config
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\ChatRoomClient.exe
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\ChatRoomClient.pdb
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\bin\Debug\ChatRoomClient.exe
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\bin\Debug\ChatRoomClient.pdb
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\App.g.cs
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\ChatRoomClient_MarkupCompile.cache
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\ChatRoomClient_MarkupCompile.lref
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\ChatRoomClient.g.resources
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\ChatRoomClient.csproj.GenerateResource.Cache
+F:\Users\Max Grimmett\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\bin\Debug\Newtonsoft.Json.dll
+F:\Users\Max Grimmett\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\ChatRoom.Properties.Resources.resources
+f:\users\max grimmett\documents\visual studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\Master.g.cs
+f:\users\max grimmett\documents\visual studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\Master.baml
+f:\users\max grimmett\documents\visual studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\Pages\Chat.g.cs
+f:\users\max grimmett\documents\visual studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\Pages\Chat.baml
+f:\users\max grimmett\documents\visual studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\Pages\Login.g.cs
+f:\users\max grimmett\documents\visual studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\Pages\Login.baml
+f:\Users\Max Grimmett\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\Pages\HostRoom.g.cs
+f:\Users\Max Grimmett\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\Pages\Menu.g.cs
+f:\Users\Max Grimmett\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\Pages\Register.g.cs
+F:\Users\Max Grimmett\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\Pages\HostRoom.baml
+F:\Users\Max Grimmett\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\Pages\Menu.baml
+F:\Users\Max Grimmett\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\Pages\Register.baml
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\Master.g.cs
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\Pages\Chat.g.cs
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\Pages\HostRoom.g.cs
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\Pages\Login.g.cs
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\Pages\Menu.g.cs
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\Pages\Register.g.cs
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\Master.baml
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\Pages\Chat.baml
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\Pages\HostRoom.baml
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\Pages\Login.baml
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\Pages\Menu.baml
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\Pages\Register.baml
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\ChatRoom.Properties.Resources.resources
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\Pages\RoomList.g.cs
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\Pages\RoomList.baml
+F:\Users\Max Grimmett\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\Pages\RoomList.g.cs
+F:\Users\Max Grimmett\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\Pages\RoomList.baml
+F:\Users\Max Grimmett\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\Pages\RoomPasswordEntry.g.cs
+F:\Users\Max Grimmett\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\Pages\RoomPasswordEntry.baml
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\Pages\RoomPasswordEntry.g.cs
+C:\Users\grimm\Documents\Visual Studio 2015\Projects\ChatRoom\ChatRoomClient\obj\Debug\Pages\RoomPasswordEntry.baml

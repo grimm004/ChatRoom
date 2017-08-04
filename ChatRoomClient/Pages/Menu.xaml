@@ -1,0 +1,17 @@
+﻿<Page x:Class="ChatRoom.Pages.Menu"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ChatRoom.Pages"
+      mc:Ignorable="d"
+      d:DesignWidth="255" d:DesignHeight="140" 
+      Width="255" Height="140" 
+      Title="Menu">
+
+    <Grid>
+        <Button x:Name="logountButton" Content="Logout" HorizontalAlignment="Left" Margin="10,55,-12,0" VerticalAlignment="Top" Width="222" Click="logountButton_Click" Height="27"/>
+        <Button x:Name="hostRoomButton" Content="Host Room" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="111" Click="hostRoomButton_Click" Height="45"/>
+        <Button x:Name="joinRoomButton" Content="Join Room" HorizontalAlignment="Left" Margin="121,10,0,0" VerticalAlignment="Top" Width="111" Click="joinRoomButton_Click" Height="45"/>
+    </Grid>
+</Page>
